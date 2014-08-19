@@ -1,0 +1,38 @@
+.appear{
+	visibility: hidden;
+}
+.animated{
+	-webkit-animation-duration:1s;
+	-moz-animation-duration:1s;
+	-ms-animation-duration:1s;
+	-o-animation-duration:1s;
+	animation-duration:1s;
+}
+
+.h1{font-size: 42px}
+
+.device {
+	border-radius: 6px !important;
+	box-shadow: -15px 15px 0 rgba(0, 0, 0, 0.15);
+}
+.device header{
+	border-radius: 5px 5px 0 0;
+}
+.device.phone{
+	border-radius: 15px !important;
+}
+.device.phone header{
+	border-radius: 14px 14px 0 0;
+}
+.device.phone footer{
+	border-radius:0 0 14px 14px;
+}
+#responsive{
+	background: url(../images/render-1.png) #25313e center top no-repeat;
+	background-size: cover;
+}
+
+#responsive > div{
+	background-color: #25313e;
+	background-color: rgba(37, 49, 62, 0.95)
+}

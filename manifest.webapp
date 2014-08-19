@@ -1,0 +1,12 @@
+{
+"name": "Notas",
+"icons": {
+        "128": "/icons/Notas_128.png", 
+        "120": "/icons/Notas_120.png", 
+        "90": "/icons/Notas_90.png", 
+        "60": "/icons/Notas_60.png"
+    }, 
+"version": "1.0",
+"launch_path": "/index.html",
+"release_notes": "Notas para Firefox OS",
+"developer": {"name": "BeetleDeveloper"}}
